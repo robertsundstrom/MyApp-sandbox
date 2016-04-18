@@ -1,4 +1,4 @@
-﻿﻿# MyApp-sandbox 
+# MyApp-sandbox 
 
 Solution of cross-platform .NET apps, built with Xamarin, that share common business logic, using the MVVM and service patterns.
 
